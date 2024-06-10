@@ -9,8 +9,8 @@ class OpenAITtsProvider {
         { name: 'Echo', voice_id: 'echo', lang: 'en-US', preview_url: 'https://cdn.openai.com/API/docs/audio/echo.wav' },
         { name: 'Fable', voice_id: 'fable', lang: 'en-US', preview_url: 'https://cdn.openai.com/API/docs/audio/fable.wav' },
         { name: 'Onyx', voice_id: 'onyx', lang: 'en-US', preview_url: 'https://cdn.openai.com/API/docs/audio/onyx.wav' },
-        { name: 'Nova', voice_id: 'nova', lang: 'en-US', preview_url: 'https://cdn.openai.com/API/docs/audio/nova.wav' },
-        { name: 'Shimmer', voice_id: 'shimmer', lang: 'en-US', preview_url: 'https://cdn.openai.com/API/docs/audio/shimmer.wav' },
+        { name: 'keli_hailuo', voice_id: 'keli_hailuo', lang: 'en-US', preview_url: 'https://cdn.openai.com/API/docs/audio/nova.wav' },
+        { name: 'YaeMiko_hailuo', voice_id: 'YaeMiko_hailuo', lang: 'en-US', preview_url: 'https://cdn.openai.com/API/docs/audio/shimmer.wav' },
     ];
 
     settings;
